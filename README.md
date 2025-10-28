@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/alperencam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alperencam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alperen çam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen çam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alperen-%C3%A7am-903445258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen çam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23351341/alperen-%c3%87am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alperen çam" height="30" width="40" /></a>
 </p>
 
