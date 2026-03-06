@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alperen ÇAM</h1>
+<h1 align="center">Hi 👋, I'm Alperen ÇAM </h1>
 <h3 align="center">a game developer who loves playing and developing games</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperencam&label=Profile%20views&color=0e75b6&style=flat" alt="alperencam" /> </p>
